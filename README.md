@@ -110,35 +110,35 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
 
  - ### 1st - Properties that possess waterfront view are, on average, 212.38% more expensive in comparison to the ones that do not have such feature.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/191962514-70edbf52-c08b-4aa1-9d46-9db3ebd39eca.png" alt="drawing" width="750"/>
+  <img src="" alt="drawing" width="750"/>
 </p>
 
 #### **Usage**: House Rocket could focus on buying and selling waterfront view properties, since the profit will be higher in absolut values. 
 --- 
 - ### 2nd - Properties that do not have a basement are, on average, 27.71% cheaper in comparison to the ones that have such feature.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/191962495-7f9303a2-8c91-47ab-9940-dc984cc0fbc5.png" alt="drawing" width="750"/>
+  <img src="" alt="drawing" width="750"/>
 </p>
 
 #### **Usage**: House Rocket could look to buy properties without a basement that have the potential to possess one. Therefore these properties can be sold for a lot higher price. 
 ---
 - ### 3rd - Properties with good views are, on average, 1.89 times more expensive than the ones with not so good views
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/191962502-adfbcb5e-2261-46f3-8d1d-1bb8d2281405.png" alt="drawing" width="750"/>
+  <img src="" alt="drawing" width="750"/>
 </p>
 
 #### **Usage**: House Rocket could focus on buying and selling properties with good views, since the profit will be higher in absolut values.
 ---
 - ### 4th - Regions bordering Lake Washington produce, on average, 36.23% more profit in comparison to other regions.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/192010463-9a0d6027-c6fa-4b4c-9e49-a539873a6ba2.png" alt="drawing" width="750"/>
+  <img src="" alt="drawing" width="750"/>
 </p>
 
 #### **Usage**: House Rocket could focus on buying and selling properties around Lake Washington, since the profit will be higher in absolut values.
 ---
 - ### 5th - Properties with the lowest prices (on average) were built from 1941 to 1983.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/191962508-06aaa6af-a466-4181-8d23-e0e1ca88548f.png" alt="drawing" width="750"/>
+  <img src="" alt="drawing" width="750"/>
 </p>
 
 #### **Usage**: House Rocket would have higher profits buying and selling properties built from the mid 1980's upwards, as well as the ones built from 1900 to 1940.
