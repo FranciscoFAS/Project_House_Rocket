@@ -3,12 +3,12 @@
 <p align="center">A Data Analysis Project</p>
 
 <h1 align="center">
-  <img alt="houserocketlogo" title="#houserocketlogo" src="house-rocket.jpg" />
+  <img alt="houserocketlogo" title="#houserocketlogo" src="image/house-rocket.jpg" />
 </h1>
 
 *Obs: The  company and business problem are both fictitious, although the data is real.*
   
-*The in-depth Python code explanation is available in [this](https://github.com/FranciscoFAS/projetohouserocket/blob/160a30f494e6b8a59e1b6964a5da102b0b87776a/v03_streamlit_app_dashboard.py) Python Script.*
+*The in-depth Python code explanation is available in [this](https://github.com/FranciscoFAS/Project_House_Rocket/blob/cebfd6d5aa9cd7298dc8e1f743cc33a8bc81151a/notebook/Project_House_Rocket.py) Python Script.*
 
 # 1. **House Rocket and Business Problem**
 <p align="justify"> House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, therefore the company could turn in a profit. For this particular instance, House Rocket will operate in King County, which includes Seattle. </p>
@@ -84,16 +84,16 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
 ## 4.2. What was delivered as a **solution**?
  - Solution to Problem 1:  
     
-    - [Buy Suggestion Table](C:\Users\af_na\repos\curso_python_zero_ds\Project_House_Rocket\suggestion\buy): Contains buy suggestions and suggested buy prices
+    - [Buy Suggestion Table](https://github.com/FranciscoFAS/Project_House_Rocket/tree/cebfd6d5aa9cd7298dc8e1f743cc33a8bc81151a/suggestion/buy): Contains buy suggestions and suggested buy prices
 
  - Solution to Problem 2: 
-    - [Sell Suggestion Table](C:\Users\af_na\repos\curso_python_zero_ds\Project_House_Rocket\suggestion\sell): Contains suggested sell prices and profit
+    - [Sell Suggestion Table](https://github.com/FranciscoFAS/Project_House_Rocket/tree/cebfd6d5aa9cd7298dc8e1f743cc33a8bc81151a/suggestion/sell): Contains suggested sell prices and profit
 
  - Financial Results:
-    - [Profit descriptive analysis](C:\Users\af_na\repos\curso_python_zero_ds\Project_House_Rocket\results\profit-descriptive-analysis.csv)
-    - [Average and median profit grouped by ad_season]("C:\Users\af_na\repos\curso_python_zero_ds\Project_House_Rocket\results\med-avg-profit-by-zipcode-season.csv")
-    - [Average and median profit grouped by zipcode]("C:\Users\af_na\repos\curso_python_zero_ds\Project_House_Rocket\results\med-avg-profit-by-zipcode.csv")
-    - [Average and median profit grouped by ad_season and zipcode]("C:\Users\af_na\repos\curso_python_zero_ds\Project_House_Rocket\results\med-avg-profit-by-season.csv")
+    - [Profit descriptive analysis](https://github.com/FranciscoFAS/Project_House_Rocket/results/profit-descriptive-analysis.csv)
+    - [Average and median profit grouped by ad_season]("https://github.com/FranciscoFAS/Project_House_Rocket/results/med-avg-profit-by-zipcode-season.csv")
+    - [Average and median profit grouped by zipcode]("https://github.com/FranciscoFAS/Project_House_Rocket/results/med-avg-profit-by-zipcode.csv")
+    - [Average and median profit grouped by ad_season and zipcode]("https://github.com/FranciscoFAS/Project_House_Rocket/results/med-avg-profit-by-season.csv")
     - [House Rocket Cloud App](https://projecthouserocket.onrender.com): App deployed using Streamlit Cloud containing all tables (Buy Suggestion Table, Sell Suggestion Table and Financial Results Tables) with filters and a Buy Suggestion Map, as well as data insights.
     
  <i> Because the deployment was made in a free cloud (Render) it could take a few minutes for the page to load in the **first time**. </i>
@@ -145,7 +145,7 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
 
 # 6. **Financial Results**
 
-<p align="justify"> Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in <a href="C:\Users\af_na\repos\curso_python_zero_ds\Project_House_Rocket\results">here</a>. As for the profit for each property it can be checked in the <a href="https://projecthouserocket.onrender.com">House Rocket Cloud App</a>, where filters can also be applied for better visualization. </p>
+<p align="justify"> Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in <a href="https://github.com/FranciscoFAS/Project_House_Rocket/tree/cebfd6d5aa9cd7298dc8e1f743cc33a8bc81151a/results">here</a>. As for the profit for each property it can be checked in the <a href="https://projecthouserocket.onrender.com">House Rocket Cloud App</a>, where filters can also be applied for better visualization. </p>
 
 <p align="justify"> <b> If this feasible solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property. The main profit metrics are displayed below: </b></p>
 
