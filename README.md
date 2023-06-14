@@ -110,38 +110,18 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
 
  - ### 1st - Properties that possess waterfront view are, on average, 212.38% more expensive in comparison to the ones that do not have such feature.
 <p align="center">
-  <img src="" alt="drawing" width="750"/>
+  <img src="https://github.com/FranciscoFAS/Project_House_Rocket/blob/5d823053c0264a2479183d46427f97eab5b13d9f/image/hp1.png" alt="drawing" width="750"/>
 </p>
 
 #### **Usage**: House Rocket could focus on buying and selling waterfront view properties, since the profit will be higher in absolut values. 
 --- 
 - ### 2nd - Properties that do not have a basement are, on average, 27.71% cheaper in comparison to the ones that have such feature.
 <p align="center">
-  <img src="" alt="drawing" width="750"/>
+  <img src="https://github.com/FranciscoFAS/Project_House_Rocket/blob/5d823053c0264a2479183d46427f97eab5b13d9f/image/hp2.png" alt="drawing" width="750"/>
 </p>
 
 #### **Usage**: House Rocket could look to buy properties without a basement that have the potential to possess one. Therefore these properties can be sold for a lot higher price. 
 ---
-- ### 3rd - Properties with good views are, on average, 1.89 times more expensive than the ones with not so good views
-<p align="center">
-  <img src="" alt="drawing" width="750"/>
-</p>
-
-#### **Usage**: House Rocket could focus on buying and selling properties with good views, since the profit will be higher in absolut values.
----
-- ### 4th - Regions bordering Lake Washington produce, on average, 36.23% more profit in comparison to other regions.
-<p align="center">
-  <img src="" alt="drawing" width="750"/>
-</p>
-
-#### **Usage**: House Rocket could focus on buying and selling properties around Lake Washington, since the profit will be higher in absolut values.
----
-- ### 5th - Properties with the lowest prices (on average) were built from 1941 to 1983.
-<p align="center">
-  <img src="" alt="drawing" width="750"/>
-</p>
-
-#### **Usage**: House Rocket would have higher profits buying and selling properties built from the mid 1980's upwards, as well as the ones built from 1900 to 1940.
 
 # 6. **Financial Results**
 
