@@ -173,7 +173,7 @@ In this project the two main objectives were accomplished:
 
 |         **Click below to access the App**        |
 |:------------------------:|
-|         [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://projecthouserocket.onrender.com)
+|         [![Render App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://project-house-rocket.onrender.com/)
 </div>
  
 # 8. **Next Steps**
