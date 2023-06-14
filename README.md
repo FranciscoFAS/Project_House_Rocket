@@ -94,7 +94,7 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
     - [Average and median profit grouped by ad_season]("https://github.com/FranciscoFAS/Project_House_Rocket/results/med-avg-profit-by-zipcode-season.csv")
     - [Average and median profit grouped by zipcode]("https://github.com/FranciscoFAS/Project_House_Rocket/results/med-avg-profit-by-zipcode.csv")
     - [Average and median profit grouped by ad_season and zipcode]("https://github.com/FranciscoFAS/Project_House_Rocket/results/med-avg-profit-by-season.csv")
-    - [House Rocket Cloud App](https://projecthouserocket.onrender.com): App deployed using Streamlit Cloud containing all tables (Buy Suggestion Table, Sell Suggestion Table and Financial Results Tables) with filters and a Buy Suggestion Map, as well as data insights.
+    - [House Rocket Cloud App](https://project-house-rocket.onrender.com/): App deployed using Streamlit Cloud containing all tables (Buy Suggestion Table, Sell Suggestion Table and Financial Results Tables) with filters and a Buy Suggestion Map, as well as data insights.
     
  <i> Because the deployment was made in a free cloud (Render) it could take a few minutes for the page to load in the **first time**. </i>
 
@@ -125,7 +125,7 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
 
 # 6. **Financial Results**
 
-<p align="justify"> Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in <a href="https://github.com/FranciscoFAS/Project_House_Rocket/tree/cebfd6d5aa9cd7298dc8e1f743cc33a8bc81151a/results">here</a>. As for the profit for each property it can be checked in the <a href="https://projecthouserocket.onrender.com">House Rocket Cloud App</a>, where filters can also be applied for better visualization. </p>
+<p align="justify"> Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in <a href="https://github.com/FranciscoFAS/Project_House_Rocket/tree/cebfd6d5aa9cd7298dc8e1f743cc33a8bc81151a/results">here</a>. As for the profit for each property it can be checked in the <a href="https://project-house-rocket.onrender.com/">House Rocket Cloud App</a>, where filters can also be applied for better visualization. </p>
 
 <p align="justify"> <b> If this feasible solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property. The main profit metrics are displayed below: </b></p>
 
