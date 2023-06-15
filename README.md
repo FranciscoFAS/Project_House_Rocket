@@ -93,7 +93,7 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
     - [Profit descriptive analysis](https://github.com/FranciscoFAS/Project_House_Rocket/results/profit-descriptive-analysis.csv)
     - [Average and median profit grouped by ad_season]("https://github.com/FranciscoFAS/Project_House_Rocket/results/med-avg-profit-by-zipcode-season.csv")
     - [Average and median profit grouped by zipcode]("https://github.com/FranciscoFAS/Project_House_Rocket/results/med-avg-profit-by-zipcode.csv")
-    - [Average and median profit grouped by ad_season and zipcode]("https://github.com/FranciscoFAS/Project_House_Rocket/results/med-avg-profit-by-season.csv")
+    - [Average and median profit grouped by ad_season and zipcode]("https://github.com/FranciscoFAS/Project_House_Rocket/blob/cebfd6d5aa9cd7298dc8e1f743cc33a8bc81151a/results/profit-descriptive-analysis.csv")
     - [House Rocket Cloud App](https://project-house-rocket.onrender.com/): App deployed using Streamlit Cloud containing all tables (Buy Suggestion Table, Sell Suggestion Table and Financial Results Tables) with filters and a Buy Suggestion Map, as well as data insights.
     
  <i> Because the deployment was made in a free cloud (Render) it could take a few minutes for the page to load in the **first time**. </i>
