@@ -15,7 +15,7 @@ import plotly.express as px
 # ------------------------------------------
 # settings
 # ------------------------------------------
-st.set_page_config( layout='wide' )
+st.set_page_config( page_title='Project House Rocket', page_icon="chart_with_upwards_trend", layout='wide' )
 
 
 # ------------------------------------------
@@ -169,10 +169,11 @@ def set_commercial( data ):
 
     st.header( 'Average price per year built' )
 
+    # ---------- Average Price per year built
     # get data
     data['date'] = pd.to_datetime( data['date'] ).dt.strftime( '%Y-%m-%d' )
 
-    df = data.loc[data['yr_built'] < f_year_built]
+    df = data.loc[data['yr_built'] > f_year_built]
     df = df[['yr_built', 'price']].groupby( 'yr_built' ).mean().reset_index()
 
     fig = px.line( df, x='yr_built', y='price' )
@@ -191,7 +192,7 @@ def set_commercial( data ):
 
     # filter data
     data['date'] = pd.to_datetime( data['date'] )
-    df = data[data['date'] < f_date]
+    df = data[data['date'] > f_date]
     df = df[['date', 'price']].groupby( 'date' ).mean().reset_index()
 
     fig = px.line( df, x='date', y='price' )
@@ -208,7 +209,7 @@ def set_commercial( data ):
 
     f_price = st.sidebar.slider( 'Price', min_price, max_price, avg_price )
 
-    df = data[data['price'] < f_price]
+    df = data[data['price'] > f_price]
 
     fig = px.histogram( df, x='price', nbins=50 )
     st.plotly_chart( fig, use_container_width=True )
@@ -230,13 +231,13 @@ def set_phisical( data ):
 
     # Houses per bedrooms
     c1.header( 'Houses per bedrooms' )
-    df = data[data['bedrooms'] < f_bedrooms]
+    df = data[data['bedrooms'] > f_bedrooms]
     fig = px.histogram( df, x='bedrooms', nbins=19 )
     c1.plotly_chart( fig, use_containder_width=True )
 
     # Houses per bathrooms
     c2.header( 'Houses per bathrooms' )
-    df = data[data['bathrooms'] < f_bathrooms]
+    df = data[data['bathrooms'] > f_bathrooms]
     fig = px.histogram( df, x='bathrooms', nbins=10 )
     c2.plotly_chart( fig, use_containder_width=True )
 
@@ -248,7 +249,7 @@ def set_phisical( data ):
 
     # Houses per floors
     c1.header( 'Houses per floors' )
-    df = data[data['floors'] < f_floors]
+    df = data[data['floors'] > f_floors]
     fig = px.histogram( df, x='floors', nbins=19 )
     c1.plotly_chart( fig, use_containder_width=True )
 
